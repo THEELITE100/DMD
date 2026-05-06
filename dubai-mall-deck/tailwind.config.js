@@ -1,0 +1,25 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        luxury: {
+          black: '#0a0a0a',
+          charcoal: '#1a1a1a',
+          gold: '#C5A059',
+          sand: '#E8E5DF',
+          white: '#ffffff'
+        }
+      },
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+        serif: ['Playfair Display', 'serif'], // For luxury headers
+      }
+    },
+  },
+  plugins: [],
+}
