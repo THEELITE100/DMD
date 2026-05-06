@@ -69,33 +69,6 @@ To run this project locally, ensure you have Node.js installed, then follow thes
 git clone https://github.com/THEELITE100/DMD.git
 cd dubai-mall-deck
 
-# Local Setup & Installation
-
-## Install Dependencies
-
-```bash
-npm install
-
-# Local Setup
-
-## Start the Development Server
-
-```bash
-npm run dev
-
-# Application Access & Production Build
-
-The application will be available at [http://localhost:5173](http://localhost:5173).
-
-## Build for Production
-
-```bash
-npm run build
-
-
-
-
-
 💻 Local Setup & Installation
 
 To run this project locally, ensure you have Node.js installed, then follow these steps:
