@@ -4,7 +4,10 @@ import Navigation from './components/layout/Navigation';
 import Hero from './components/sections/Hero';
 import ScaleAndData from './components/sections/ScaleAndData';
 import LuxuryRetail from './components/sections/LuxuryRetail';
+import DiningLifestyle from './components/sections/DiningLifestyle';
+import ArtAndCulture from './components/sections/ArtAndCulture';
 import Entertainment from './components/sections/Entertainment';
+import Hospitality from './components/sections/Hospitality';
 import EventsModule from './components/sections/EventsModule';
 import TechSpecs from './components/sections/TechSpecs';
 import SponsorshipModule from './components/sections/SponsorshipModule';
@@ -20,7 +23,10 @@ function App() {
         <Hero />
         <ScaleAndData />
         <LuxuryRetail />
-        <Entertainment />
+        <DiningLifestyle />
+        <ArtAndCulture />
+        <Entertainment />        
+        <Hospitality />
         
         <EventsModule onShowTechSpecs={() => setShowTechSpecs(true)} />
         
