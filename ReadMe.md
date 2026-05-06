@@ -48,22 +48,22 @@ All generated assets are hosted locally within the `/public/assets/` directory.
 To run this project locally, ensure you have Node.js installed, then follow these steps:
 
 1. **Clone the repository**
-```bash
+
 git clone https://github.com/THEELITE100/DMD.git
 cd dubai-mall-deck
 
 2. **Install Dependencies**
-```bash
+
 npm install
 
 3. **Start the Development Server**
-```bash
+
 npm run dev
 
 The application will be available at: [http://localhost:5173](http://localhost:5173)
 
 4. **Build for Production**
-```bash
+
 npm run build
 
 ---
