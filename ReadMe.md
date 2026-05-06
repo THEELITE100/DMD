@@ -91,3 +91,24 @@ The application will be available at [http://localhost:5173](http://localhost:51
 
 ```bash
 npm run build
+
+
+
+
+
+💻 Local Setup & Installation
+
+To run this project locally, ensure you have Node.js installed, then follow these steps:
+
+1. Clone the repository
+git clone https://github.com/THEELITE100/DMD.git
+cd dubai-mall-deck
+2. Install Dependencies
+npm install
+3. Start the Development Server
+npm run dev
+
+The application will be available at: http://localhost:5173
+
+4. Build for Production
+npm run build
