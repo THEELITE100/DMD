@@ -38,7 +38,7 @@ export default function LuxuryRetail() {
         <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
           <div>
             <h2 className="text-luxury-gold text-sm tracking-[0.3em] uppercase mb-4">Luxury and Retail</h2>
-            <h3 className="font-serif text-4xl md:text-5xl text-luxury-white">Unrivaled Environments.</h3>
+            <h3 className="font-serif text-4xl md:text-5xl text-luxury-white">Unrivaled Environments</h3>
           </div>
           <div className="flex items-center gap-6">
             <span className="text-luxury-sand/50 font-serif tracking-widest">{String(currentIndex + 1).padStart(2, '0')} / {String(retailZones.length).padStart(2, '0')}</span>

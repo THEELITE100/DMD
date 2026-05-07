@@ -9,7 +9,7 @@ export default function Entertainment() {
     { title: "The Aquarium", desc: "10 million liters of discovery, drawing millions of dedicated tourists annually.", img: "/assets/ent-aquarium.png" },
     { title: "Dubai Fountain", desc: "The world's largest choreographed fountain system, driving massive evening footfall.", img: "/assets/ent-fountain.png" },
     { title: "VR Park", desc: "Bleeding edge virtual reality driving high margin, all day dwell times for youth demographics.", img: "/assets/ent-vr.png" },
-    { title: "The Cinemas", desc: "Ultra luxury megaplex featuring dine-in screens, Dolby Cinema, and immersive formats.", img: "/assets/ent-cinema.png" },
+    { title: "The Cinemas", desc: "Ultra luxury megaplex featuring dine in screens, Dolby Cinema, and immersive formats.", img: "/assets/ent-cinema.png" },
     { title: "Ice Rink", desc: "Multi purpose arena hosting international sporting events and premium public skating.", img: "/assets/ent-icerink.png" },
     { title: "KidZania", desc: "An interactive children's city blending play with learning, securing immense family traffic.", img: "/assets/ent-kidzania.png" }
   ];

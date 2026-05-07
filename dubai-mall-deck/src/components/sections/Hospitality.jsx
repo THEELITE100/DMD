@@ -17,9 +17,9 @@ export default function Hospitality() {
           <div className="w-full lg:w-1/3">
             <div className="sticky top-32">
               <h2 className="text-luxury-gold text-sm tracking-[0.3em] uppercase mb-4">Integrated Hospitality</h2>
-              <h3 className="font-serif text-4xl md:text-5xl text-luxury-white mb-6">Stay Where You Play.</h3>
+              <h3 className="font-serif text-4xl md:text-5xl text-luxury-white mb-6">Stay Where You Play</h3>
               <p className="text-luxury-sand/80 font-light leading-relaxed mb-10">
-                Seamless physical integration with three ultra luxury 5 star resorts. This creates a captive, elite audience available 24/7, offering brand partners and event producers unparalleled turnkey room block solutions.
+                Seamless physical integration with three ultra luxury 5 star resorts. This creates a captive, offering brand partners and event producers unparalleled turnkey room block solutions.
               </p>
               
               <button onClick={scrollToContact} className="border border-luxury-white text-luxury-white px-8 py-4 uppercase tracking-widest text-xs hover:bg-luxury-white hover:text-luxury-black transition-colors">
