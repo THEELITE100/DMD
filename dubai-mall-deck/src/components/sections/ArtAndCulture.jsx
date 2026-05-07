@@ -43,7 +43,7 @@ export default function ArtAndCulture() {
         className="text-center mt-20"
       >
         <button onClick={scrollToContact} className="border border-luxury-white text-luxury-white px-8 py-4 uppercase tracking-widest text-xs hover:bg-luxury-white hover:text-luxury-black transition-colors">
-          Sponsor
+          Sponsor Installations
         </button>
       </motion.div>
     </section>
