@@ -2,6 +2,12 @@
 
 A purpose built, high performance interactive sales tool designed to replace static PDFs, manual presentations, and fragmented pitch materials for one of the world's largest mixed use destinations.
 
+## ⚠️ Disclaimer
+
+This project was developed as a creative demonstration and interactive concept tool. It is not intended to replace official marketing materials, operational processes, or business systems of The Dubai Mall or any associated entities.
+All content, imagery, and assets presented within this application including retail, dining, art, entertainment, and event examples are fictional and created just for illustrative purposes. They may or may not correspond to real life tenants, events, or installations, and are included solely to showcase design, storytelling, and user experience concepts.
+This project demonstrates creative, technical, and UX capabilities, and should not be interpreted as factual or official representations of The Dubai Mall or its offerings.
+
 ## 🚀 Live Demo
 **https://dmd-ecru.vercel.app**
 
