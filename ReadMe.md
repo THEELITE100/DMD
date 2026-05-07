@@ -10,7 +10,7 @@ A purpose built, high performance interactive sales tool designed to replace sta
 ## 📖 The Objective
 For mega properties like The Dubai Mall, the commercial pitch process to prospective retail tenants, corporate sponsors, and event producers is often manual and disjointed. I built this application from scratch to solve that problem. 
 
-This browser based tool operates as a cross between a high-end pitch deck and a luxury brand website. It features a cinematic, non linear UX that allows the commercial scale, energy, and business opportunities of the property to speak for themselves, driving immediate emotional buy in and pushing prospects toward actionable business inquiries.
+This browser based tool operates as a cross between a high end pitch deck and a luxury brand website. It features a cinematic, non linear UX that allows the commercial scale, energy, and business opportunities of the property to speak for themselves, driving immediate emotional buy in and pushing prospects toward actionable business inquiries.
 
 ---
 
