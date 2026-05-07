@@ -7,7 +7,7 @@ export default function SponsorshipModule() {
   const tiers = [
     { level: "Tier 1", name: "Naming Rights & Domination", details: "Total property takeover. Includes main atrium naming rights, 100% share of voice on 400+ digital screens, and prime outdoor billboard allocation." },
     { level: "Tier 2", name: "Digital Network Takeovers", details: "High frequency digital exposure. Sync your campaign across our massive interior LED networks during peak weekend footfall hours." },
-    { level: "Tier 3", name: "Experiential Pop-ups", details: "Physical brand zones. Secure premium, high-traffic floor space for immersive product launches and interactive sampling." }
+    { level: "Tier 3", name: "Experiential Pop ups", details: "Physical brand zones. Secure premium, high traffic floor space for immersive product launches and interactive sampling." }
   ];
 
   const scrollToContact = () => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
@@ -22,7 +22,7 @@ export default function SponsorshipModule() {
       <div className="max-w-5xl mx-auto px-6 relative z-10">
         <div className="text-center mb-16">
           <h2 className="text-luxury-gold text-sm tracking-[0.3em] uppercase mb-4">Brand Partnerships</h2>
-          <h3 className="font-serif text-4xl md:text-5xl text-luxury-white mb-6">Own The Experience.</h3>
+          <h3 className="font-serif text-4xl md:text-5xl text-luxury-white mb-6">Own The Experience</h3>
           <p className="text-luxury-sand text-lg font-light max-w-2xl mx-auto">
             Gain access to 80+ million affluent consumers annually through naming rights, digital domination networks, and immersive brand zones. 
           </p>

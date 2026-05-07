@@ -3,9 +3,9 @@ import { Users, Building2, MapPin } from 'lucide-react';
 
 export default function ScaleAndData() {
   const stats = [
-    { icon: <Users size={32} />, value: '80M+', label: 'Annual Visitors', desc: 'More foot traffic than Times Square.' },
-    { icon: <Building2 size={32} />, value: '1,200+', label: 'Retail Outlets', desc: 'From global flagships to emerging pop ups.' },
-    { icon: <MapPin size={32} />, value: '12M', label: 'Square Feet', desc: 'Equivalent to 50 soccer fields of premium real estate.' }
+    { icon: <Users size={32} />, value: '80M+', label: 'Annual Visitors', desc: 'More foot traffic than Times Square' },
+    { icon: <Building2 size={32} />, value: '1,200+', label: 'Retail Outlets', desc: 'From global flagships to emerging pop ups' },
+    { icon: <MapPin size={32} />, value: '12M', label: 'Square Feet', desc: 'Equivalent to 50 soccer fields of premium real estate' }
   ];
 
   return (

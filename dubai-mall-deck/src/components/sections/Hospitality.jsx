@@ -6,7 +6,7 @@ export default function Hospitality() {
   const hotels = [
     { name: "The Armani Hotel", desc: "Designed entirely by Giorgio Armani, offering unparalleled luxury and direct VIP access to the fashion avenues.", img: "/assets/hosp-hotel.png" },
     { name: "Address Downtown", desc: "A flagship resort directly bridging the mall to the Burj Khalifa plaza. Essential for corporate event buyouts.", img: "/assets/hosp-suite.png" },
-    { name: "Wellness & Spa Centers", desc: "Multi-floor urban sanctuaries offering elite rejuvenation, driving massive dwell times and specialized wellness tourism.", img: "/assets/hosp-spa.png" }
+    { name: "Wellness & Spa Centers", desc: "Multi floor urban sanctuaries offering elite rejuvenation, driving massive dwell times and specialized wellness tourism.", img: "/assets/hosp-spa.png" }
   ];
 
   return (
@@ -19,7 +19,7 @@ export default function Hospitality() {
               <h2 className="text-luxury-gold text-sm tracking-[0.3em] uppercase mb-4">Integrated Hospitality</h2>
               <h3 className="font-serif text-4xl md:text-5xl text-luxury-white mb-6">Stay Where You Play.</h3>
               <p className="text-luxury-sand/80 font-light leading-relaxed mb-10">
-                Seamless physical integration with three ultra-luxury 5-star resorts. This creates a captive, high-net-worth audience available 24/7, offering brand partners and event producers unparalleled turnkey room-block solutions.
+                Seamless physical integration with three ultra luxury 5 star resorts. This creates a captive, elite audience available 24/7, offering brand partners and event producers unparalleled turnkey room block solutions.
               </p>
               
               <button onClick={scrollToContact} className="border border-luxury-white text-luxury-white px-8 py-4 uppercase tracking-widest text-xs hover:bg-luxury-white hover:text-luxury-black transition-colors">

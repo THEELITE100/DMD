@@ -9,16 +9,16 @@ export default function LuxuryRetail() {
   const scrollToContact = () => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
 
   const retailZones = [
-    { title: "Fashion Avenue", subtitle: "The epicenter of global luxury.", description: "An entire precinct dedicated to elite brands. Hosting the largest collection of fashion houses under one roof.", image: "/assets/retail-fashion.png" },
-    { title: "Haute Horlogerie", subtitle: "Timeless elegance, concentrated.", description: "A curated boulevard of the world's most prestigious watchmakers and jewelers. Designed for the highly valued individuals.", image: "/assets/retail-watches.png" },
-    { title: "Beauty & Fragrance", subtitle: "Bespoke cosmetics and perfumery.", description: "A sensory journey featuring exclusive cosmetic houses, bespoke fragrance labs, and private aesthetic consultation suites.", image: "/assets/retail-beauty.png" },
-    { title: "Level Shoes", subtitle: "The largest footwear destination on earth.", description: "Spanning 96,000 square feet, this architectural marvel is dedicated entirely to luxury footwear and accessories.", image: "/assets/retail-shoes.png" },
-    { title: "Gourmet Culinary Arts", subtitle: "A world class dining portfolio.", description: "From Michelin starred concepts to exclusive caviar lounges, our fine dining precincts cater to the refined palates.", image: "/assets/retail-dining.png" },
-    { title: "Bespoke Tailoring", subtitle: "Sartorial perfection.", description: "Dedicated suites for master tailors and premium menswear brands, offering made to measure services.", image: "/assets/retail-tailoring.png" },
-    { title: "Fine Art & Antiques", subtitle: "Investment grade curation.", description: "Museum-quality galleries showcasing contemporary masterpieces, rare antiquities, and investment grade collectibles.", image: "/assets/retail-art.png" },
-    { title: "Designer Homeware", subtitle: "Living in elevated style.", description: "The ultimate destination for luxury interior design, featuring flagship showrooms from the world's most coveted brands.", image: "/assets/retail-homeware.png" },
-    { title: "Private VIP Lounges", subtitle: "Discretion and elite service.", description: "By invitation only retreats offering dedicated concierges, private fitting rooms, and personal shopping services.", image: "/assets/retail-vip.png" },
-    { title: "Department Stores", subtitle: "Anchors of commerce.", description: "Home to legendary multi level flagship anchors. These architectural icons provide diverse, high volume retail environments.", image: "/assets/retail-department.png" }
+    { title: "Fashion Avenue", subtitle: "The epicenter of global luxury", description: "An entire precinct dedicated to elite brands. Hosting the largest collection of fashion houses under one roof.", image: "/assets/retail-fashion.png" },
+    { title: "Haute Horlogerie", subtitle: "Timeless elegance", description: "A curated boulevard of the world's most prestigious watchmakers and jewelers. Designed for the highly valued individuals.", image: "/assets/retail-watches.png" },
+    { title: "Beauty & Fragrance", subtitle: "Bespoke cosmetics and perfumery", description: "A sensory journey featuring exclusive cosmetic houses, bespoke fragrance labs, and private aesthetic consultation suites.", image: "/assets/retail-beauty.png" },
+    { title: "Level Shoes", subtitle: "The largest footwear destination on earth", description: "Spanning 96,000 square feet, this architectural marvel is dedicated entirely to luxury footwear and accessories.", image: "/assets/retail-shoes.png" },
+    { title: "Gourmet Culinary Arts", subtitle: "A world class dining experience", description: "From Michelin starred concepts to exclusive caviar lounges, our fine dining precincts cater to the refined palates.", image: "/assets/retail-dining.png" },
+    { title: "Bespoke Tailoring", subtitle: "Sartorial perfection", description: "Dedicated suites for master tailors and premium menswear brands, offering made to measure services.", image: "/assets/retail-tailoring.png" },
+    { title: "Fine Art & Antiques", subtitle: "Investment grade curation", description: "Museum quality galleries showcasing contemporary masterpieces, rare antiquities, and investment grade collectibles.", image: "/assets/retail-art.png" },
+    { title: "Designer Homeware", subtitle: "Living in elevated style", description: "The ultimate destination for luxury interior design, featuring flagship showrooms from the world's most coveted brands.", image: "/assets/retail-homeware.png" },
+    { title: "Private VIP Lounges", subtitle: "Discretion and elite service", description: "By invitation only retreats offering dedicated concierges, private fitting rooms, and personal shopping services.", image: "/assets/retail-vip.png" },
+    { title: "Department Stores", subtitle: "Anchors of commerce", description: "Home to legendary multi level flagship anchors. These architectural icons provide diverse, high volume retail environments.", image: "/assets/retail-department.png" }
   ];
 
   const slideVariants = {

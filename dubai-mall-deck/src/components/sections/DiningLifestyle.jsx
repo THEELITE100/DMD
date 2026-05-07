@@ -2,11 +2,11 @@ import { motion } from 'framer-motion';
 
 export default function DiningLifestyle() {
   const diningConcepts = [
-    { title: "Michelin Gastronomy", desc: "Award-winning concepts from global culinary masters.", img: "/assets/dining-michelin.png", colSpan: "md:col-span-2", rowSpan: "md:row-span-2" },
-    { title: "Alfresco Terraces", desc: "Dining with unparalleled fountain and skyline views.", img: "/assets/dining-alfresco.png", colSpan: "md:col-span-1", rowSpan: "md:row-span-1" },
-    { title: "Caviar & Champagne", desc: "Exclusive lounges for the high class.", img: "/assets/dining-caviar.png", colSpan: "md:col-span-1", rowSpan: "md:row-span-1" },
-    { title: "Artisan Cafes", desc: "European style coffee houses driving daytime dwell time.", img: "/assets/dining-cafe.png", colSpan: "md:col-span-1", rowSpan: "md:row-span-1" },
-    { title: "High Energy Lounges", desc: "Seamless transition from daytime retail to evening nightlife.", img: "/assets/dining-nightlife.png", colSpan: "md:col-span-1", rowSpan: "md:row-span-1" }
+    { title: "Michelin Gastronomy", desc: "Award winning concepts from global culinary masters", img: "/assets/dining-michelin.png", colSpan: "md:col-span-2", rowSpan: "md:row-span-2" },
+    { title: "Alfresco Terraces", desc: "Dining with unparalleled fountain and skyline views", img: "/assets/dining-alfresco.png", colSpan: "md:col-span-1", rowSpan: "md:row-span-1" },
+    { title: "Caviar & Champagne", desc: "Exclusive lounges for the high class", img: "/assets/dining-caviar.png", colSpan: "md:col-span-1", rowSpan: "md:row-span-1" },
+    { title: "Artisan Cafes", desc: "European style coffee houses driving daytime dwell time", img: "/assets/dining-cafe.png", colSpan: "md:col-span-1", rowSpan: "md:row-span-1" },
+    { title: "High Energy Lounges", desc: "Seamless transition from daytime retail to evening nightlife", img: "/assets/dining-nightlife.png", colSpan: "md:col-span-1", rowSpan: "md:row-span-1" }
   ];
 
   const scrollToContact = () => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });

@@ -39,7 +39,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.2 }} 
           className="font-serif text-6xl md:text-8xl font-bold text-luxury-white mb-6 leading-tight drop-shadow-2xl"
         >
-          A City Within <br/> A Destination.
+          A City Within <br/> A Destination
         </motion.h1>
         
         <motion.p 

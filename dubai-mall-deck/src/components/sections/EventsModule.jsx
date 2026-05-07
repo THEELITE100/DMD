@@ -25,9 +25,9 @@ export default function EventsModule({ onShowTechSpecs }) {
         <div className="flex flex-col md:flex-row gap-16">
           <div className="md:w-1/3">
             <h2 className="text-luxury-gold text-sm tracking-[0.3em] uppercase mb-4">Venue Booking</h2>
-            <h3 className="font-serif text-4xl text-luxury-white mb-6">A Global Stage.</h3>
+            <h3 className="font-serif text-4xl text-luxury-white mb-6">A Global Stage</h3>
             <p className="text-luxury-sand font-light mb-8">
-              From international concert tours to luxury brand activations, our venues offer turn-key production capabilities with built in audiences of tens of thousands.
+              From international concert tours to luxury brand activations, our venues offer turn key production capabilities with built in audiences of tens of thousands.
             </p>
             <button 
               onClick={handleTechSpecsClick}

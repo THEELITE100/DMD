@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 export default function TechSpecs() {
   const specs = [
-    { category: "Audio Visual", details: ["L-Acoustics K2 Line Array System", "4K LED Modular Backdrops (Up to 100ft)", "Yamaha Rivage PM10 Console"] },
+    { category: "Audio Visual", details: ["L-Acoustics K2 Line Array System", "4K LED Modular Backdrops", "Yamaha Rivage PM10 Console"] },
     { category: "Rigging & Staging", details: ["120 Ton Roof Rigging Capacity", "Automated Stage Lifts", "Customizable Catwalk Infrastructure"] },
     { category: "Power & Data", details: ["Triple Redundant 10,000A Power", "Dedicated 10Gbps Fiber Backbone", "Site Wide High Density WiFi"] },
     { category: "Back of House", details: ["12 Luxury Star Dressing Rooms", "Direct Multi Trailer Loading Docks", "Dedicated Production Offices"] }
