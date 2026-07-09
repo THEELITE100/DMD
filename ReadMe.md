@@ -8,7 +8,7 @@ This project was developed as a creative demonstration and interactive concept t
 All content and imagery presented within this application including retail, dining, art, entertainment, etc. are just examples and are used just for illustrative purposes. They may or may not correspond to real life tenants, events, or installations, and are included solely to showcase design and storytelling.
 This project demonstrates creative, technical, and UX capabilities, and should not be interpreted as factual or official representations of The Dubai Mall or its offerings.
 
-## 🚀 Live Demo
+## 🚀 Live
 **https://dmd-ecru.vercel.app**
 
 ---
